@@ -1,0 +1,20 @@
+Apple
+Banana
+Cherry
+Dates
+
+
+Hi Adyashakti,
+
+Thank you for reaching out and for sharing the opportunity. I’m definitely interested in the role and would be happy to proceed with the interview process.
+
+I’d also like to be transparent regarding my experience and how it aligns with the requirements. I have strong experience in Python, databases, technical leadership, architecture decisions, and operational excellence.
+
+In my previous roles, I have led five engineering teams, including building and establishing team structures from scratch. One of the teams was a full-stack engineering team, where I was closely involved in backend engineering, architecture decisions, code quality, and application performance. I was also responsible for providing technical direction and ensuring the team delivered scalable and reliable solutions.
+
+Java and Golang are the areas where my experience is not as strong, and I recognize that I may not fully meet all of the technical requirements in this respect. However, I have a strong willingness and ability to develop in these technologies. I’m an enthusiastic Technical Manager who thrives in a fast-paced environment and wants to make a real difference. I’m focused on developing high-performance applications using modern technologies across the stack, and I’m always eager to learn and adopt new technologies quickly.
+
+With that in mind, I’m very interested in the opportunity and would be happy to continue the conversation and explore whether my overall technical leadership, architecture, and engineering experience could be a good fit for the role.
+
+Best regards,
+Marta

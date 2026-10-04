@@ -1,0 +1,4 @@
+/interviews/
+__pycache__/
+*.py[cod]
+/output.csv

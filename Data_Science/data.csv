@@ -1,0 +1,11 @@
+Name,Age,City,Department,Salary,YearsExperience,IsActive
+Alice Johnson,28,London,Engineering,68000,4,True
+Bob Smith,34,Berlin,Marketing,59000,8,True
+Carla Garcia,25,Madrid,Design,52000,2,True
+Daniel Brown,41,Paris,Engineering,85000,15,True
+Eva Müller,30,Amsterdam,Sales,61000,6,False
+Frank Wilson,37,Dublin,Finance,74000,11,True
+Grace Lee,23,London,Marketing,47000,1,True
+Hassan Ali,45,Berlin,Finance,92000,19,False
+Irene Rossi,32,Milan,Design,64000,7,True
+Jack Taylor,29,Paris,Sales,56000,5,True
