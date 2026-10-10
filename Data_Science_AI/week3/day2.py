@@ -45,6 +45,11 @@ eigenValues, eigenVectors = np.linalg.eig(B)
 print("EigenValues B (Wartości własne:) \n", eigenValues)
 print("EigenVectors B \n Wektory własne (kolumny):\n", eigenVectors)
 
+U, S, Vt =np.linalg.svd(A)
+
+print("U matrix (Macierz U):\n", U)
+print("S matrix (Macierz S):\n", S)
+print("V^T matrix (Macierz V^T):\n", Vt)
 
 # Introduction to Matrix Decomposition
 
